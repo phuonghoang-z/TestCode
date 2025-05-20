@@ -1,0 +1,9 @@
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\bin\Debug\TestFormEtabs.exe.config
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\bin\Debug\TestFormEtabs.exe
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\bin\Debug\TestFormEtabs.pdb
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\obj\Debug\TestFormEtabs.csproj.AssemblyReference.cache
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\obj\Debug\TestFormEtabs.Properties.Resources.resources
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\obj\Debug\TestFormEtabs.csproj.GenerateResource.cache
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\obj\Debug\TestFormEtabs.csproj.CoreCompileInputs.cache
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\obj\Debug\TestFormEtabs.exe
+D:\HNT Phuong\RevitAPI\Code\TestCode\TestFormEtabs\obj\Debug\TestFormEtabs.pdb

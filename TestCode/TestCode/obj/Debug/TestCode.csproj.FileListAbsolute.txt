@@ -1,0 +1,6 @@
+E:\Work\RevitAPI\Code\TestCode\TestCode\TestCode\bin\Debug\TestCode.exe
+E:\Work\RevitAPI\Code\TestCode\TestCode\TestCode\bin\Debug\TestCode.pdb
+E:\Work\RevitAPI\Code\TestCode\TestCode\TestCode\obj\Debug\TestCode.csproj.AssemblyReference.cache
+E:\Work\RevitAPI\Code\TestCode\TestCode\TestCode\obj\Debug\TestCode.csproj.CoreCompileInputs.cache
+E:\Work\RevitAPI\Code\TestCode\TestCode\TestCode\obj\Debug\TestCode.exe
+E:\Work\RevitAPI\Code\TestCode\TestCode\TestCode\obj\Debug\TestCode.pdb
